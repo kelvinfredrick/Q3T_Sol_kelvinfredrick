@@ -11,7 +11,7 @@ SPL Devnet Token Address: https://explorer.solana.com/address/pidSF2hfgPqPoa8ehm
 
 # Anchor Vault Q3
 
-This project is an example Anchor program called `anchor_vault_q3`. The program initializes an account with a data field.
+This project is an Anchor program, Vault.
 
 ## Prerequisites
 
