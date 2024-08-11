@@ -60,12 +60,12 @@ This project is an Anchor program, to create a user's favorite number, color and
 ![installation process](favourites/asset/install.png)
 
 
-    ```basb
-    anchor build
-    ```
+   ```basb
+   anchor build
+   ```
 
-    ```basb
-    anchor test
-    ```
+   ```basb
+   anchor test
+   ```
 ![installation process](favourites/asset/test.png)
 all test should pass
