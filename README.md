@@ -67,5 +67,5 @@ This project is an Anchor program, to create a user's favorite number, color and
     ```basb
     anchor test
     ```
-     ![installation process](favourites/asset/test.png)
+![installation process](favourites/asset/test.png)
 all test should pass
