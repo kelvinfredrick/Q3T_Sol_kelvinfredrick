@@ -41,9 +41,31 @@ Before you begin, ensure you have the following installed:
     ```
 
     ```basb
-    anchor idl parse --out-dir ./target/types
+    anchor test
+    ```
+
+# WEEK 3
+
+This project is an Anchor program, to create a user's favorite number, color and hobbies and store in the blockchain
+
+ ```bash
+   git clone https://github.com/kelvinfredrick/Q3T_Sol_kelvinfredrick
+   cd favourites
+   ```
+
+   ```basb
+   yarn install
+    ```
+
+    ![installation process](favourites/asset/install.png)
+
+
+    ```basb
+    anchor build
     ```
 
     ```basb
-    anchor deploy
+    anchor test
     ```
+     ![installation process](favourites/asset/test.png)
+all test should pass

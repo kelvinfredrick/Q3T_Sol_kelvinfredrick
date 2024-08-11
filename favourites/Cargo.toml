@@ -1,5 +1,6 @@
 [workspace]
-members = ["programs/anchor-vault-q3"]
+members = ["programs/favourites"]
+
 resolver = "2"
 
 [profile.release]
