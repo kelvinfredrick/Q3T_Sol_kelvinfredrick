@@ -48,16 +48,16 @@ Before you begin, ensure you have the following installed:
 
 This project is an Anchor program, to create a user's favorite number, color and hobbies and store in the blockchain
 
- ```bash
+   ```bash
    git clone https://github.com/kelvinfredrick/Q3T_Sol_kelvinfredrick
    cd favourites
    ```
 
    ```basb
    yarn install
-    ```
+   ```
 
-    ![installation process](favourites/asset/install.png)
+![installation process](favourites/asset/install.png)
 
 
     ```basb
